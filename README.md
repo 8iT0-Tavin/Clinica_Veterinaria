@@ -50,6 +50,33 @@ Principais objetivos:
 
 ---
 
+## 🗄️ Banco de Dados
 
+O sistema utiliza SQL para armazenamento dos dados.
 
+⚠️ Para execução em outro ambiente:
+- É necessário configurar a string de conexão com o banco de dados local
+- Ajustar o endereço do servidor SQL conforme a máquina
 
+Exemplo:
+```csharp
+"Server=SEU_SERVIDOR;Database=ClinicaDB;Trusted_Connection=True;".
+```
+---
+
+## 🔥 Diferenciais
+
+- Sistema totalmente funcional com persistência em banco de dados
+- Aplicação desenvolvida para uso real em ambiente de clínica
+- Estrutura organizada para fácil manutenção
+
+## 👥 Equipe
+
+Desenvolvido por:
+- Otavio Augusto Andrade de Toledo
+- Ennrico Hernandez Vizcarra Galleguillos
+- Felipe Ferreira de Oliveira
+
+## 🎓 Origem do Projeto
+
+Projeto iniciado em contexto acadêmico (UEMG), com apoio institucional para aplicação prática em ambiente real.
