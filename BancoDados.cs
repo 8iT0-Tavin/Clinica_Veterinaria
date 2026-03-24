@@ -9,7 +9,7 @@ namespace ClinicaVeterinaria
 {
     public static class BancoDados
     {
-    private const string CS = "server=127.0.0.1;port=3306;database=clinica_veterinaria;uid=root;pwd=;SslMode=disabled;";
+    private const string CS = "server=000.0.0.0;port=3306;database=clinica_veterinaria;uid=root;pwd=;SslMode=disabled;";
         public static MySqlConnection Conectar()
         {
             return new MySqlConnection(CS);
