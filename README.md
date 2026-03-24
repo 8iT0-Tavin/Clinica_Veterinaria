@@ -5,6 +5,14 @@ Conforme o Dono da clinica pediu por simplicidade na utilização
 
 ---
 
+## 💡 Problema Resolvido
+
+A clínica utilizava métodos manuais, gerando:
+- desorganização
+- perda de informações
+- lentidão no atendimento
+
+---
 ## 📌 Sobre o Projeto
 
 O sistema foi criado para resolver problemas reais de organização enfrentados pela clínica, substituindo controles manuais por uma solução digital simples, funcional e intuitiva.
